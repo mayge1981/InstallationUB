@@ -26,13 +26,12 @@
        1. docker pull tomcat:8.5.82-jdk8-corretto-al2
        2. docker pull centos:centos7.9.2009
 
-Resources:
-https://docs.docker.com/engine/install/ubuntu/
-https://docs.docker.com/engine/install/linux-postinstall/
+   * Resources:
+     * https://docs.docker.com/engine/install/ubuntu/
+     *https://docs.docker.com/engine/install/linux-postinstall/
 
 
-# ----------------------------------------------------------
-# Source Codes
-https://github.com/mayge1981/SpringBootDemoUB.git
-https://github.com/mayge1981/SpringBootDockerUB.git
+3. Demo repository
+   1. https://github.com/mayge1981/SpringBootDemoUB.git
+   2. https://github.com/mayge1981/SpringBootDockerUB.git
 
