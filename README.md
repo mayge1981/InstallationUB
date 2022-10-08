@@ -31,7 +31,10 @@
      *https://docs.docker.com/engine/install/linux-postinstall/
 
 
-3. Demo repository
-   1. https://github.com/mayge1981/SpringBootDemoUB.git
-   2. https://github.com/mayge1981/SpringBootDockerUB.git
+3. Docker demo repository
+   1. https://github.com/mayge1981/SpringBootDockerUB.git
+   2. https://github.com/mayge1981/SpringBootMysqlDockerUB.git
+   3. https://github.com/mayge1981/haproxyDockerUB.git
 
+
+4. Source codes
