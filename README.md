@@ -2,7 +2,7 @@
 
 1. Install WSL and Ubuntu
    1. Open your windows terminal (command)
-   2. vwsl --intall
+   2. wsl --intall
    3. wsl --install -d Ubuntu
    4. create username and password
    5. wsl
